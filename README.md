@@ -9,7 +9,7 @@ All positions and directions are in the cube's objject space, so all transforms 
 
 I used this project as a reference: https://github.com/IRCSS/UnityRaymarching - It's more involved and uses render textures for back faces.
 
-TODOs: 
+### TODOs: 
  - Add shadows.
  - Fix normals, I think they look a bit off.
  - ???
